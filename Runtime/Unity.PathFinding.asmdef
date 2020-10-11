@@ -1,3 +1,13 @@
-﻿{
-	"name": "Unity.PathFinding"
+{
+    "name": "Unity.PathFinding",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

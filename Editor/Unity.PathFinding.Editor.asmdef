@@ -1,3 +1,15 @@
-﻿{
-	"name": "Unity.PathFinding.Editor"
+{
+    "name": "Unity.PathFinding.Editor",
+    "references": [
+        "GUID:c76784c3fe7ab1543b3bd2a039772b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
