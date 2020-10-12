@@ -1,8 +1,13 @@
 {
   "name": "com.tonymarkham.unitypathfinding",
-  "displayName": "Unity Path-Finding Package",
   "version": "0.0.1",
-  "unity": "2020.1",
+  "displayName": "Unity Path-Finding Package",
   "description": "Tools for adding Path-Finding to Unity Games",
-  "dependencies": { }
+  "unity": "2020.1",
+  "dependencies": { },
+  "author": {
+    "name": "Tony Markham",
+    "email": "myonlinneentity@gmail.com",
+    "url": "https://github.com/TonyMarkham/"
+  }
 }
