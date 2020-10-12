@@ -4,7 +4,9 @@
   "displayName": "Unity Path-Finding Package",
   "description": "Tools for adding Path-Finding to Unity Games",
   "unity": "2020.1",
-  "dependencies": { },
+  "dependencies": {
+    "com.unity.render-pipelines.universal": "8.2.0"
+  },
   "author": {
     "name": "Tony Markham",
     "email": "myonlinneentity@gmail.com",
